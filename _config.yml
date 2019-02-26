@@ -7,12 +7,12 @@
 
 # Site settings
 title: Arvind Mehra
-email: hemangsk@gmail.com
+email: bloomberg490@gmail.com
 description: Ruby on Rails Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://arvindmehra.in" # the base hostname & protocol for your site
+# twitter_username: hemang_kumar
+github_username:  arvindmehra
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
