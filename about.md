@@ -4,10 +4,10 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
+<h2>Arvind Mehra</h2>
 <p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<center><p ><strong><span class="manual">Get up and running with</span> Arvind Mehra</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
@@ -69,7 +69,7 @@ categories: ["life", "friends"]
 layout: page
 title: String <span class="hint">Title of the webpage</span>
 permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
+tagline: String <span class="hint">Optional Arvind Mehra Feature : Tagline for the page</span>
 \---</pre>
 
 ```
