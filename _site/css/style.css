@@ -5,20 +5,20 @@
 body.light { color: #111; background-color: #fdfdfd; /** Links */ /** Code formatting */ /** Icons */ /** Site header */ /** Site footer */ }
 body.light a { color: #a00 !important; }
 body.light a:visited { color: #02060b; }
-body.light a:hover { color: #2b2b2b !important; border-color: #848484; }
-body.light a.page-link:hover { color: #111; border-color: #2b2b2b; }
-body.light a.postLink { color: #2b2b2b !important; }
+body.light a:hover { color: black !important; border-color: #5e0000; }
+body.light a.page-link:hover { color: #111; border-color: black; }
+body.light a.postLink { color: black !important; }
 body.light a.postLink:visited { color: #DC143C !important; border-color: #DC143C; }
-body.light a.post-title-link { color: #2b2b2b !important; }
+body.light a.post-title-link { color: black !important; }
 body.light a.post-title-link:visited { color: #DC143C !important; border-color: #DC143C; }
 body.light blockquote { color: #828282; border-left-color: #e8e8e8; }
 body.light pre, body.light code { border-color: #e8e8e8; background-color: #EEF; }
 body.light .icon > svg path { fill: #828282; }
 body.light .site-header { border-top-color: #424242; border-bottom-color: #e8e8e8; }
 body.light .site-title, body.light .site-title:visited { color: #424242; }
-body.light .site-navigation { color: #aaa; }
-body.light .page-tagline { color: #aaa; }
-body.light .page-link { color: #aaa; }
+body.light .site-navigation { color: #a00; }
+body.light .page-tagline { color: #a00; }
+body.light .page-link { color: #a00; }
 body.light .site-nav .page-link { color: #111; }
 @media screen and (max-width: 600px) { body.light { background-color: #fdfdfd; border: 1px solid #e8e8e8; }
   body.light .menu-icon > svg path { fill: #424242; } }
