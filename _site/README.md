@@ -1,2 +1,0 @@
-# arvindmehra.github.io
-Blog
